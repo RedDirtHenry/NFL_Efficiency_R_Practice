@@ -1,3 +1,6 @@
+# All credit to @benbaldwin for the source code, I just made some minor changes to the graphic and changed the QB being analyzed
+# @nflfastR for all the data
+
 library(tidyverse)
 library(ggplot2)
 library(ggthemes)
